@@ -68,7 +68,7 @@ brew install qpdf ghostscript
 
 Install Python package:
 ```bash
-pip install .
+pip install psutil tqdm colorama watchdog
 ```
 
 ## Use Cases
